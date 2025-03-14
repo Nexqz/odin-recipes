@@ -1,0 +1,18 @@
+body {
+  font-family: "Lucida Grande", sans-serif;
+  line-height: 1.3rem;
+}
+
+a {
+  display: block;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+
+ol li,
+a {
+  padding-bottom: 0.6rem;
+}
